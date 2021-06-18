@@ -10,7 +10,7 @@ After running a search for Canadian Patents in the year 1900, the database came 
 
 To start analyzing this data I went into RStudio and ran some counts code. This counted the number of patents that were issued in each city. With over 2000 patents, there were obviously almost 1000 different cities which made it quite difficult to turn into a visualization. I first created a pie chart which showed the top 10 cities.
 
-![alt text](/Users/nicholashunter/repository-4/Pie-Chart.png)
+![alt text](/https://github.com/nich4520/Part-4/blob/main/repository-4/Pie-Chart.png)
 
 ### Google My Maps
 
